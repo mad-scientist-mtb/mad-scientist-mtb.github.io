@@ -1,157 +1,24 @@
 ---
-title: 📈 Communicate your results effectively with the best data visualizations
-summary: Use popular tools such as Plotly, Mermaid, and data frames.
-date: 2023-10-25
+title: Cold weather MTB Gear
+subtitle: What to wear on a Mountain Bike or Fat Tire bike at various temperatures
+date: 2024-12-01
 authors:
   - admin
-tags:
-  - Hugo
-  - Hugo Blox
-  - Markdown
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 
 ---
 
-Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.
+You need to dress approriately for mountainbiking/fat tire cycling in the colder temperatures of the upper midwest. Here's what has worked for me after two winters outside of the Twin Cities in Minnesota: 
 
-Use popular tools such as Plotly, Mermaid, and data frames.
 
-## Charts
+1. 55-65: Normal gloves. Flats with light wool socks. MTB shorts (knee pads, elbow pads, body armor will add a bit of warmth). Alt: mtb pants and long sleeve undershirt. Full face helmet or skullcap. 
 
-Hugo Blox supports the popular [Plotly](https://plot.ly/) format for interactive data visualizations. With Plotly, you can design almost any kind of visualization you can imagine!
+2. 45-55: Heavy gloves. Flats, wool socks. MTB pants, long sleeve undershirt, short sleeve shirt, fleece mid layer. Removable vest or puffy jacket for nicer warmup. Full face helmet or skullcap, goggles optional.  
 
-Save your Plotly JSON in your page folder, for example `line-chart.json`, and then add the `{{</* chart data="line-chart" */>}}` shortcode where you would like the chart to appear.
+3. 35-45: Warm gloves or bar mitts. Flats, wool socks, toe caps. MTB pants, long sleeve undershirt, fleece mid layer. Light shell w underarm zips. Full face or ski/snowboard helmet + goggles. heavy gloves. 
 
-Demo:
+4. 25-35: Bar mitts with MTB gloves. Five-Ten Impact Pro Mid (or warmer flat) + toe caps or winter cycling boots. Warm pants, long sleeve undershirt, fleece mid layer. Light shell w underarm zips. Full face with skullcap or ski/snowboard helmet. Goggles + neck warmer or face mask. 
 
-{{< chart data="line-chart" >}}
+5. 15-25: Bar mitts with MTB or warm gloves. Five-Ten Impact Pro Mid (or warmer) + toe caps and foot warmers or 45 NRTH cycling boots. Warm or ski pants, long sleeve undershirt, fleece mid layer. Light shell w underarm zips. Ski/snowboard helmet, goggles, face mask. 
 
-You might also find the [Plotly JSON Editor](http://plotly-json-editor.getforge.io/) useful.
-
-## Diagrams
-
-Hugo Blox supports the _Mermaid_ Markdown extension for diagrams.
-
-An example **flowchart**:
-
-    ```mermaid
-    graph TD
-    A[Hard] -->|Text| B(Round)
-    B --> C{Decision}
-    C -->|One| D[Result 1]
-    C -->|Two| E[Result 2]
-    ```
-
-renders as
-
-```mermaid
-graph TD
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
-```
-
-An example **sequence diagram**:
-
-    ```mermaid
-    sequenceDiagram
-    Alice->>John: Hello John, how are you?
-    loop Healthcheck
-        John->>John: Fight against hypochondria
-    end
-    Note right of John: Rational thoughts!
-    John-->>Alice: Great!
-    John->>Bob: How about you?
-    Bob-->>John: Jolly good!
-    ```
-
-renders as
-
-```mermaid
-sequenceDiagram
-Alice->>John: Hello John, how are you?
-loop Healthcheck
-    John->>John: Fight against hypochondria
-end
-Note right of John: Rational thoughts!
-John-->>Alice: Great!
-John->>Bob: How about you?
-Bob-->>John: Jolly good!
-```
-
-An example **class diagram**:
-
-    ```mermaid
-    classDiagram
-    Class01 <|-- AveryLongClass : Cool
-    Class03 *-- Class04
-    Class05 o-- Class06
-    Class07 .. Class08
-    Class09 --> C2 : Where am i?
-    Class09 --* C3
-    Class09 --|> Class07
-    Class07 : equals()
-    Class07 : Object[] elementData
-    Class01 : size()
-    Class01 : int chimp
-    Class01 : int gorilla
-    Class08 <--> C2: Cool label
-    ```
-
-renders as
-
-```mermaid
-classDiagram
-Class01 <|-- AveryLongClass : Cool
-Class03 *-- Class04
-Class05 o-- Class06
-Class07 .. Class08
-Class09 --> C2 : Where am i?
-Class09 --* C3
-Class09 --|> Class07
-Class07 : equals()
-Class07 : Object[] elementData
-Class01 : size()
-Class01 : int chimp
-Class01 : int gorilla
-Class08 <--> C2: Cool label
-```
-
-An example **state diagram**:
-
-    ```mermaid
-    stateDiagram
-    [*] --> Still
-    Still --> [*]
-    Still --> Moving
-    Moving --> Still
-    Moving --> Crash
-    Crash --> [*]
-    ```
-
-renders as
-
-```mermaid
-stateDiagram
-[*] --> Still
-Still --> [*]
-Still --> Moving
-Moving --> Still
-Moving --> Crash
-Crash --> [*]
-```
-
-## Data Frames
-
-Save your spreadsheet as a CSV file in your page's folder and then render it by adding the _Table_ shortcode to your page:
-
-```go
-{{</* table path="results.csv" header="true" caption="Table 1: My results" */>}}
-```
-
-renders as
-
-{{< table path="results.csv" header="true" caption="Table 1: My results" >}}
-
-## Did you find this page helpful? Consider sharing it 🙌
+6. Under 15: Bar mitts w/ warm gloves. 45 NRTH winter boots, consider toe warmers. Ski pants, long sleeve undershirt, fleece mid layer. Ski/snowboard outer layer w/ underarm zips. Ski/snowboard helmet, goggles, face mask. 
