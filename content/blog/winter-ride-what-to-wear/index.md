@@ -17,7 +17,7 @@ You need to dress approriately for mountainbiking/fat tire cycling in the colder
 
 3. 35-45: Warm gloves or bar mitts. Flats, wool socks, toe caps. MTB pants, long sleeve undershirt, fleece mid layer. Light shell w underarm zips. Full face or ski/snowboard helmet + goggles. heavy gloves. 
 
-4. 25-35: Bar mitts with MTB gloves. Five-Ten Impact Pro Mid (or warmer flat) + toe caps or winter cycling boots. Warm pants, long sleeve undershirt, fleece mid layer. Light shell w underarm zips. Full face with skullcap or ski/snowboard helmet. Goggles + neck warmer or face mask. 
+4. 25-35: Bar mitts with MTB gloves or heavy winter gloves. Five-Ten Impact Pro Mid (or warmer flat) + toe caps, or winter cycling boots. Warm pants, long sleeve undershirt, fleece mid layer. Light shell w underarm zips. Full face with skullcap or ski/snowboard helmet. Goggles + neck warmer or face mask. 
 
 5. 15-25: Bar mitts with MTB or warm gloves. Five-Ten Impact Pro Mid (or warmer) + toe caps and foot warmers or 45 NRTH cycling boots. Warm or ski pants, long sleeve undershirt, fleece mid layer. Light shell w underarm zips. Ski/snowboard helmet, goggles, face mask. 
 
