@@ -5,10 +5,16 @@ date: 2024-12-01
 authors:
   - admin
 image:
-  caption: 
+  caption: Me, riding Whitetail Ridge in the snow. 
 ---
 
-You need to dress approriately for mountainbiking/fat tire cycling in the colder temperatures of the upper midwest. Here's what has worked for me after two winters outside of the Twin Cities in Minnesota: 
+You need to dress approriately for mountainbiking/fat tire cycling as temps get colder if you still want to have fun in the winter. 
+
+https://www.instagram.com/p/C0ItY9ttLjZ/
+
+{{< instagram C0ItY9ttLjZ >}}
+
+Here's what has worked for me after two winters outside of the Twin Cities in Minnesota: 
 
 
 1. 55-65: Normal gloves. Flats with light wool socks. MTB shorts (knee pads, elbow pads, body armor will add a bit of warmth). Alt: mtb pants and long sleeve undershirt. Full face helmet or skullcap. 
